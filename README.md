@@ -1,2 +1,2 @@
 # Todo_App
-Made on AngularJS
+This is a basic Todo_app made on AngularJS
